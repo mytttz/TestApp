@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="create">СОТВОРИТЬ</string>
+    <string name="сell_filling">Клеточное наполнение</string>
+</resources>
